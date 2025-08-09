@@ -50,8 +50,3 @@ Tested in:
 - Edge
 
 Mobile browsers are not officially supported, though it may run on high-end devices.
-
-## Credits
-
-Created by [Your Name or Handle].  
-Inspired by the joy of simple but satisfying physics simulations.
