@@ -6,7 +6,7 @@ Rotolo is a single-file browser-based physics toy where colorful balls bounce an
 
 ## Quick Start
 
-[Try it online](https://swiftredvox.github.io/rotolo/) or download the latest release HTML file and open it in your browser.  
+[Try it online](https://swiftredvox.github.io/rotolo/) or download the index.html file and open it in your browser.  
 Use the left panel to tweak settings, change themes, or try different overlay modes.
 
 ---
