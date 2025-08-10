@@ -11,6 +11,12 @@ Use the left panel to tweak settings, change themes, or try different overlay mo
 
 ---
 
+## Preview
+
+![Rotolo Screenshot](rotolo_screenshot.png)
+
+---
+
 ## Features
 
 - **Dynamic physics**: Balls collide with each other and the hexagon walls with realistic momentum and restitution.
