@@ -1,40 +1,46 @@
 # Rotolo
 
-Rotolo is an interactive physics simulation of balls colliding inside a rotating hexagon.  
-Built entirely in HTML, CSS, and JavaScript, it runs directly in the browser with no external libraries required.
+Rotolo is a single-file browser-based physics toy where colorful balls bounce and collide inside a rotating hexagon. Built with pure HTML, CSS, and JavaScript, it runs in any modern browser with no external libraries.
+
+---
+
+## Quick Start
+
+[Try it online](https://swiftredvox.github.io/rotolo/) or download the latest release HTML file and open it in your browser.  
+Use the left panel to tweak settings, change themes, or try different overlay modes.
 
 ---
 
 ## Features
 
-- **Dynamic physics**: Balls collide with each other and the hexagon walls using realistic momentum and restitution.
+- **Dynamic physics**: Balls collide with each other and the hexagon walls with realistic momentum and restitution.
 - **Configurable simulation**:
-  - Ball count (up to 80)
-  - Gravity strength and direction (positive or negative)
+  - Ball count up to 80
+  - Adjustable gravity (positive or negative)
   - Air drag
   - Bounciness
   - Rotation speed
   - Hexagon size
   - Ball size range
-- **Themes**: Choose from 8 visual styles: Neon, Aurora, Sunset, Mono, Ocean, Candy, Citrus, Ember.
-- **Overlays**: Display extra information or effects:
+- **Themes**: Neon, Aurora, Sunset, Mono, Ocean, Candy, Citrus, Ember
+- **Overlays**:
   - Off
-  - Numbers - Show ball IDs
-  - Faces - Adds expressive faces that subtly aim in motion direction
-  - Velocity - Arrows indicating speed and direction
-- **Responsive canvas**: Scales to fill the available space.
-- **Randomizer**: One click to generate a new set of random parameters.
+  - Numbers — show ball IDs
+  - Faces — simple faces that subtly aim in motion direction
+  - Velocity — arrows indicating speed and direction
+- **Responsive canvas**: Automatically scales to the window size
+- **Randomizer**: Instantly generates a new set of random parameters
 - **Keyboard controls**:
-  - **Space** - Pause/Resume
-  - **R** - Reset
-  - **L** - Cycle overlay modes
+  - **Space** — Pause/Resume
+  - **R** — Reset
+  - **L** — Cycle overlay modes
 
 ---
 
 ## How to Use
 
-1. Download the latest release HTML file. 
-2. Open the file in any modern browser (Chrome, Edge, Firefox, Safari).
+1. Download the latest release HTML file.
+2. Open it in Chrome, Edge, Firefox, or Safari.
 3. Adjust settings using the left panel.
 4. Interact:
    - Left-click balls to push them
